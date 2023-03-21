@@ -1,0 +1,20 @@
+{
+  "name": "social-network-backend",
+  "version": "1.0.0",
+  "description": "A social media startup could use this API for their social network it uses a NoSQL database so the website can handle large amounts of unstructured data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zcordeiro/Social-Network-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zcordeiro/Social-Network-Backend/issues"
+  },
+  "homepage": "https://github.com/Zcordeiro/Social-Network-Backend#readme"
+}
