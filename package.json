@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Zcordeiro/Social-Network-Backend#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^7.0.2"
+    "mongoose": "^6.9.2"
   }
 }
